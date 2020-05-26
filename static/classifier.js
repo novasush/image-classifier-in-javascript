@@ -45,11 +45,7 @@ var model = undefined;
 
 
 async function initialize() {
-
     model = await tf.loadLayersModel('/weights/catsvsdogs/model.json');
-
-    // document.getElementById('predict').addEventListener('click', () => predict());
-
 }
 
 async function predict() {
