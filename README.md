@@ -29,7 +29,7 @@ tensorflowjs_converter --input_format=keras ./model.h5 ./jsweights
 python3 -m http.server
 ```
 
-* navigate to [localhost](http:127.0.0.1) 
+* navigate to [localhost](http:127.0.0.1:8000) 
 
 # Output
 
