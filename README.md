@@ -17,7 +17,7 @@ tensorflowjs_converter --input_format=keras ./model.h5 ./jsweights
 ### After running above command you will see `model.json` and `.bin` files, tensorflowjs converter dumps model architecture in `model.json` and it's weights in `.bin` files.
 
 # setup
-* Place your converted weights inside `weights` foler
+* Place your converted weights inside `weights` folder
 
 * Open `classifier.js` and update `model.json` path according to your weights folder
 
