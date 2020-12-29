@@ -1,6 +1,4 @@
 # A cat dog image classifier deployed client side using javascript
-## Live demo link
-[Cat Dog Classifer in JavaScript](https://novasush.com/projects/classifier.html)
 
 ![image](https://novasush.com/blog/images/cat_vs_dog_in_javascript.jpg)
 
